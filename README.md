@@ -1,2 +1,5 @@
-# Desafio-1-Curso-JS
-Curso de 7 dias com o Professor Andre Iacono na Udemy.
+# Desafio-1
+
+# Esse é 1o desafio do Curso Aprenda JavaScript em 7 dias com Projetos Reais da Udemy
+
+# Professor Andre Iacono
